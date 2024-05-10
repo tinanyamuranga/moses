@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowGit", "HellowGit.csproj", "{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A39E5CF6-C83B-4CA4-AF79-9A7878116BEE}
+	EndGlobalSection
+EndGlobal

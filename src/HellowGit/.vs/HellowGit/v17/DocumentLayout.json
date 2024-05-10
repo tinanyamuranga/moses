@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Source Code\\Clone\\moses\\src\\HellowGit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}|HellowGit.csproj|c:\\source code\\clone\\moses\\src\\hellowgit\\hellowgit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}|HellowGit.csproj|solutionrelative:hellowgit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}|HellowGit.csproj|c:\\source code\\clone\\moses\\src\\hellowgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}|HellowGit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}|HellowGit.csproj|c:\\source code\\clone\\moses\\src\\hellowgit\\hellowgit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{48DDC0BC-A638-4D1A-8B4B-AF6C5194637D}|HellowGit.csproj|solutionrelative:hellowgit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HellowGit",
               "DocumentMoniker": "C:\\Source Code\\Clone\\moses\\src\\HellowGit\\HellowGit.csproj",
               "RelativeDocumentMoniker": "HellowGit.csproj",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Source Code\\Clone\\moses\\src\\HellowGit\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Source Code\\Clone\\moses\\src\\HellowGit\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T15:50:17.828Z",
               "EditorCaption": ""

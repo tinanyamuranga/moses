@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World from Git Lesson!");
+Console.WriteLine("Hello, World from tinashe!");
 
 Console.ReadLine();

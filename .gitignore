@@ -4,3 +4,8 @@
 /src/HellowGit/obj
 /src/HellowGit/bin/Debug/net8.0
 *.vsidx
+/src/Hap.Workflows/bin
+/src/Hap.Workflows/packages
+/src/Hap.Workflows/obj
+/src/HellowGit/.vs
+/src/HellowGit/.vs
